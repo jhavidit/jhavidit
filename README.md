@@ -8,8 +8,10 @@
 </a>
 
 <br/>
+<br/>
 
-Hi, I'm Vidit Jha, Native Android App Developer. I just love to tap on keyboard 😉.
+  Hi, I'm Vidit Jha, Native Android App Developer. I just love to tap on keyboard 😉.
+
 
  🔭 I’m currently working on  <b>Android App Development</b>.<br />
  🌱 I’m currently improving my <b>Data Structure and Algorithm</b> Skills.<br />
