@@ -6,7 +6,8 @@
 <a href="https://www.linkedin.com/in/jhavidit">
   <img align="left" alt="Vidit's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+<a href = "https://medium.com/@jhavidit">
+  <img align="left" alt="Vidit Jha | Medium" width = "40px" src="https://github.com/Medium/medium-logos/blob/master/01_Logo/01_Black/SVG/Medium-Logo-Black-RGB.svg" />
 <br/>
 <br/>
 
