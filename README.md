@@ -6,15 +6,17 @@
 <a href="https://www.linkedin.com/in/jhavidit">
   <img align="left" alt="Vidit's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
 <a href = "https://medium.com/@jhavidit">
-  <img align="left" alt="Vidit Jha | Medium" width = "40px" src="https://github.com/Medium/medium-logos/blob/master/01_Logo/01_Black/SVG/Medium-Logo-Black-RGB.svg" />
+  <img align="left" alt="Vidit Jha | Medium" width = "22px"  src="https://user-images.githubusercontent.com/54817177/168473045-cf3449d2-d222-4c8e-ba56-7f21fbb6a76a.svg" /></a>
 <br/>
 <br/>
+
 
   Hi, I'm Vidit Jha, Native Android App Developer. I just love to tap on keyboard 😉.
 
 
- 🔭 I’m currently working on  <b>Android App Development</b>.<br />
+ 🔭 I’m currently working on  <b>Android App Development</b>.<br/>
  🌱 I’m currently improving my <b>Data Structure and Algorithm</b> Skills.<br />
  👯 I’m looking to collaborate on Android based Open Source Projects. <br />
  💬 Ask me about anything. I'd love to help!!<br />
